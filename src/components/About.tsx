@@ -33,7 +33,7 @@ const About = () => {
     {
       name: "Anisha Ekka",
       branch: "Assistant Professor",
-      image: "src/images/faculty-advisor.jpg",
+      image: "/src/images/faculty-advisor.jpg",
       currentRole: "Dept. of Production Engineering",
       contribution: "Guided students in pioneering innovative projects and academic excellence.",
       linkedin: "https://linkedin.com/in/anisha-ekka-28063379"
