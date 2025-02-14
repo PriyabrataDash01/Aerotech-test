@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Mokoto';
-    src: url('src/fonts/Mokoto Demo.ttf') format('truetype');
+    src: url('/src/fonts/Mokoto Demo.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
