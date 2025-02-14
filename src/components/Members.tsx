@@ -5,7 +5,7 @@ const Members = () => {
     {
       
       leads: [
-        { name: "ANJANEYA DAS", designation: "Coordinator", branch: "Mechanical Engineering", batch: "2026", image: "https://imgur.com/5bvH4N6" },
+        { name: "ANJANEYA DAS", designation: "Coordinator", branch: "Mechanical Engineering", batch: "2026", image: "https://i.imgur.com/5bvH4N6.jpg" },
         { name: "SMRITI MISHRA", designation: "Coordinator", branch: "Chemical Engineering", batch: "2026", image: "https://imgur.com/SPMefXd" }
       ]
     }
