@@ -5,8 +5,8 @@ const Members = () => {
     {
       
       leads: [
-        { name: "ANJANEYA DAS", designation: "Coordinator", branch: "Mechanical Engineering", batch: "2026", image: "src/images/boy-coordinator.jpg" },
-        { name: "SMRITI MISHRA", designation: "Coordinator", branch: "Chemical Engineering", batch: "2026", image: "src/images/girl-coordinator.jpg" }
+        { name: "ANJANEYA DAS", designation: "Coordinator", branch: "Mechanical Engineering", batch: "2026", image: "/src/images/boy-coordinator.jpg" },
+        { name: "SMRITI MISHRA", designation: "Coordinator", branch: "Chemical Engineering", batch: "2026", image: "/src/images/girl-coordinator.jpg" }
       ]
     }
   ];
