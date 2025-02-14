@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Mokoto';
+    src: url('src/fonts/Mokoto Demo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.mokoto-text {
+    font-family: 'Mokoto', sans-serif;
+}
